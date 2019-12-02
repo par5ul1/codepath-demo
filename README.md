@@ -8,9 +8,9 @@ A simple _Hello World!_ type app that shows a message. The user can change the c
 <img src="https://i.imgur.com/SiizlR7.gif" width=200><br>
 
 ### Required User Stories
-- [x ] 1. User sees custom text in a label - Hi! 👋
-- [x ] 2. User see's custom background color.
-- [ x] 3. User can tap a button to change the text color of the label.
+- [x] 1. User sees custom text in a label - Hi! 👋
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
 - [x] 1. User can tap a button to change the color of the background view.
